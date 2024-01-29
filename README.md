@@ -1,4 +1,4 @@
-React Course Application
+# React Course Application
 
 This project contains a simple course introduction application developed using React.js. The application creates a web page displaying different courses and is designed using the Bulma CSS framework.
 
